@@ -86,3 +86,19 @@ Key Visuals:
 • High loss rate shows inefficiency in closing deals
 
 • Revenue is not consistent across years
+
+## 📷 Dashboard Preview  
+
+### Lead Dashboard  
+![Lead Dashboard](## 📷 Dashboard Preview  
+
+### Lead Dashboard  
+![Lead Dashboard](Screenshots/lead_dashboard.png)
+
+### Opportunity Dashboard  
+![Opportunity Dashboard](Screenshots/opportunity_dashboard.png)
+.png)
+
+### Opportunity Dashboard  
+![Opportunity Dashboard](Screenshots/opportunity_dashboard.png)
+
