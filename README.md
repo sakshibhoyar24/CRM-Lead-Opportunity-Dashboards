@@ -93,6 +93,6 @@ Key Visuals:
 ![Lead Dashboard](https://github.com/sakshibhoyar24/CRM-Lead-Opportunity-Dashboards/blob/main/Lead.png)
 
 ### Opportunity Dashboard  
-![Opportunity Dashboard](Screenshots/opportunity_dashboard.png)
+![Opportunity Dashboard](https://github.com/sakshibhoyar24/CRM-Lead-Opportunity-Dashboards/blob/main/Opportunity%20Dashboard.png)
 
 
