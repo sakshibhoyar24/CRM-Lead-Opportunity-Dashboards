@@ -4,15 +4,15 @@
 This project is a CRM analytics dashboard created using Tableau. It helps in understanding how leads are generated, how they convert into customers, and how sales opportunities perform.
 
 The dashboard is divided into two parts:
-Lead Analysis Dashboard – focuses on lead generation and conversion
-Opportunity Analysis Dashboard – focuses on revenue and deal performance
+• Lead Analysis Dashboard – focuses on lead generation and conversion
+• Opportunity Analysis Dashboard – focuses on revenue and deal performance
 It is designed to give clear insights that support better business decisions.
 
 🎯 Purpose
-To track lead sources and performance
-To measure conversion efficiency
-To analyze sales pipeline stages
-To understand revenue trends and forecasts
+• To track lead sources and performance
+• To measure conversion efficiency
+• To analyze sales pipeline stages
+• To understand revenue trends and forecasts
 
 📌 Dashboard Highlights
 🔹 Lead Analysis
